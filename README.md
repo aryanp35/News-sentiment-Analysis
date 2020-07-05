@@ -1,2 +1,2 @@
 # News-sentiment-Analysis
-Creating Sentimental analysis using TextBlob and goolge dork.
+Creating Sentimental analysis using TextBlob and google dork.
